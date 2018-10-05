@@ -1,0 +1,11 @@
+/Users/ricky/workspace/csharp/intro/hashset-practice/bin/Debug/netcoreapp2.1/hashset-practice.deps.json
+/Users/ricky/workspace/csharp/intro/hashset-practice/bin/Debug/netcoreapp2.1/hashset-practice.runtimeconfig.json
+/Users/ricky/workspace/csharp/intro/hashset-practice/bin/Debug/netcoreapp2.1/hashset-practice.runtimeconfig.dev.json
+/Users/ricky/workspace/csharp/intro/hashset-practice/bin/Debug/netcoreapp2.1/hashset-practice.dll
+/Users/ricky/workspace/csharp/intro/hashset-practice/bin/Debug/netcoreapp2.1/hashset-practice.pdb
+/Users/ricky/workspace/csharp/intro/hashset-practice/obj/Debug/netcoreapp2.1/hashset-practice.csprojAssemblyReference.cache
+/Users/ricky/workspace/csharp/intro/hashset-practice/obj/Debug/netcoreapp2.1/hashset-practice.csproj.CoreCompileInputs.cache
+/Users/ricky/workspace/csharp/intro/hashset-practice/obj/Debug/netcoreapp2.1/hashset-practice.AssemblyInfoInputs.cache
+/Users/ricky/workspace/csharp/intro/hashset-practice/obj/Debug/netcoreapp2.1/hashset-practice.AssemblyInfo.cs
+/Users/ricky/workspace/csharp/intro/hashset-practice/obj/Debug/netcoreapp2.1/hashset-practice.dll
+/Users/ricky/workspace/csharp/intro/hashset-practice/obj/Debug/netcoreapp2.1/hashset-practice.pdb
